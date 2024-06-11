@@ -1,2 +1,5 @@
 import os
-os.system("/home/ziko989/FINAL-DASHBOARD/start_streamlit.sh")
+
+# Démarrer Streamlit via une commande système
+os.system("streamlit run /home/ziko989/FINAL-DASHBOARD/dashboard.py")
+
