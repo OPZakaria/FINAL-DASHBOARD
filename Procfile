@@ -1,1 +1,1 @@
-web: sh start_streamlit.sh
+web: sh /home/ziko989/FINAL-DASHBOARD/start_streamlit.sh
